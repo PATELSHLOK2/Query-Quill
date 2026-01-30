@@ -1,0 +1,10 @@
+torch
+transformers
+sentencepiece
+nltk
+
+fastapi
+uvicorn
+python-multipart
+pypdf
+sqlalchemy
